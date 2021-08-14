@@ -1,0 +1,47 @@
+body{	
+	background-color: #353535;
+}
+h1{
+	color: #ede8e8;
+	font-size: 27px;
+	margin-top: 150px;
+	margin-left: 240px;
+}
+form{
+	display: inline-grid;
+	margin-left: 170px;	
+}
+input[type="number"]{
+	color: white;
+	margin-top: 18px;
+	height: 44px;
+	width: 23pc;
+	background-color: black;
+	border-color: black;
+	border-radius: 6px;
+	text-align: center;
+}
+div{
+	color: white;
+	margin-top: -170px;
+	margin-left: 650px;
+	margin-right: 80px ;
+
+
+}
+div span{
+	color: green;
+	font-weight: bold;
+	font-size: 30px;
+}
+input[type="submit"]{
+	color: white;
+	margin-top: 20px;
+	height: 40px;
+	width: 23.5pc;
+	background-color: #467ef4;
+	border-color: #467ef4;
+	font-size: 15px;
+	font-weight: bold;
+	border-radius: 6px;
+}
